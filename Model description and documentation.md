@@ -37,10 +37,15 @@ No overfitting or underfitting, stable validation curves.
 
 📄 Project Structure
 ├── README.md
+
 ├── train.csv
+
 ├── model/
+
 │   ├── siamese_fast_gru.h5
+
 │   └── tokenizer.pkl
+
 └── notebook.ipynb
 
 🧠 Approach Summary
